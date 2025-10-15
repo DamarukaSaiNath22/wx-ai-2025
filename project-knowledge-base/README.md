@@ -1,17 +1,25 @@
-# Project Knowledge Base
+# Company ABC Engineering Knowledge Base
 
-This knowledge base provides onboarding and access information for new team members joining the **Project Alpha** team.
+## Overview
+Welcome to the Company ABC Engineering Knowledge Base! This repository contains essential documentation for onboarding new engineers, accessing systems, managing environments, using tools, configuring pipelines, and troubleshooting common issues.
 
-It includes:
-- Access requirements
-- Environment setup guides
-- Tooling instructions
-- CI/CD pipeline overview
-- Common troubleshooting tips
+## Structure
+- **access/**: Instructions for obtaining access to systems and repositories.
+- **environments/**: Details about development, staging, and production environments.
+- **tools/**: Guides for tools used by the engineering team.
+- **pipelines/**: Documentation for CI/CD pipelines and deployment processes.
+- **troubleshooting/**: Common issues and solutions.
 
-## Quick Start
-1. Read [`access/README.md`](access/README.md) for required permissions.
-2. Follow [`environments/README.md`](environments/README.md) to set up your dev environment.
-3. Check [`tools/README.md`](tools/README.md) for IDE, plugins, and utilities.
-4. Review [`pipelines/README.md`](pipelines/README.md) for build and deploy details.
-5. Refer to [`troubleshooting/README.md`](troubleshooting/README.md) for resolving common issues.
+## Getting Started
+1. Review the [Access README](./access/README.md) to set up your accounts and permissions.
+2. Explore the [Environments README](./environments/README.md) to understand our infrastructure.
+3. Check the [Tools README](./tools/README.md) for setup instructions.
+4. Refer to the [Pipelines README](./pipelines/README.md) for deployment workflows.
+5. Use the [Troubleshooting README](./troubleshooting/README.md) for help with common problems.
+
+## Contacts
+- **Engineering Lead**: Jane Doe (jane.doe@abc.com)
+- **IT Support**: it-support@abc.com
+- **Slack**: #eng-help-channel
+
+Last Updated: October 15, 2025
